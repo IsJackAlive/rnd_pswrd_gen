@@ -1,2 +1,2 @@
 # ran_pswrd_gen
- random password generator using php
+ simple password generator using php
